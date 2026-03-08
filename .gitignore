@@ -1,0 +1,30 @@
+# Создано с помощью https://www.toptal.com/developers/gitignore/api/windows
+# Редактировать можно по адресу https://www.toptal.com/developers/gitignore?templates=windows
+
+### Windows ###
+# Файлы кэша эскизов Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Файл дампа
+*.stackdump
+
+# Файл конфигурации папки
+[Dd]esktop.ini
+
+# Корзина используется для доступа к общим файлам
+$RECYCLE.BIN/
+
+# Файлы установщика Windows
+*.такси
+*.msi
+*.мсикс
+*.msm
+*.msp
+
+# Сочетания клавиш Windows
+*.link
+
+# Конец https://www.toptal.com/developers/gitignore/api/windows
